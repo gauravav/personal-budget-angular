@@ -15,7 +15,7 @@ const budget = {
         },
         {
             title: 'Rent',
-            budget: 275
+            budget: 250
         },
         {
             title: 'Grocery',

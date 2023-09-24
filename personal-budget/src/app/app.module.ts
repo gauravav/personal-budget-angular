@@ -13,6 +13,8 @@ import { AboutComponent } from './about/about.component';
 import { LoginComponent } from './login/login.component';
 import { P404Component } from './p404/p404.component';
 import { HttpClientModule } from '@angular/common/http';
+import { BreadcrumbsComponent } from './breadcrumbs/breadcrumbs.component';
+import { ContactComponent } from './contact/contact.component';
 
 
 
@@ -27,6 +29,8 @@ import { HttpClientModule } from '@angular/common/http';
     AboutComponent,
     LoginComponent,
     P404Component,
+    BreadcrumbsComponent,
+    ContactComponent,
     
   ],
   imports: [
